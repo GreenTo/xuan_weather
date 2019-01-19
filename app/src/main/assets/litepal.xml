@@ -6,7 +6,7 @@
     <list>
         <mapping class="com.xuanweather.android.db.Province"/>
         <mapping class="com.xuanweather.android.db.City"/>
-        <mapping class="com.xuanweather.android.db.Country"/>
+        <mapping class="com.xuanweather.android.db.County"/>
     </list>
 
 </litepal>
