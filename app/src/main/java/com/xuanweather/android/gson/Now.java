@@ -12,7 +12,7 @@ public class Now {
 
     public class More {
 
-        @SerializedName("text")
+        @SerializedName("txt")
         public String info;
 
     }
